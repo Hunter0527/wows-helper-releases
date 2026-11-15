@@ -1,0 +1,5 @@
+{
+  "key_id": "ed25519-ca172ffaf0c68ec3",
+  "payload": "{\"schema\":1,\"product\":\"wows-helper\",\"channel\":\"stable\",\"sequence\":1,\"published_at\":1794745891,\"expires_at\":1797424291,\"release\":null}",
+  "signature": "7df52aae8890552dd519a82ed8c41b9bfcd28fecbaa51453132f9811e46d99e768ca50e84c8403bc22e5b08fcb4c8579cfc61bb2e067db22b3afbc54acbe3900"
+}
