@@ -2,7 +2,7 @@
 
 Windows 繁體中文《戰艦世界》玩家工具，提供亞服戰績查詢、目前戰局水表、RP 戰績與回放，以及艦艇數據、模型、散布和彈道比較。
 
-本儲存庫專供安裝檔、ZIP 免安裝版、版本說明及線上更新清單使用。**目前已設置更新來源，尚未上架可下載版本。** 版本完成驗證後會出現在 [Releases](https://github.com/Hunter0527/wows-helper-releases/releases)。
+本儲存庫專供安裝檔、ZIP 免安裝版、版本說明及線上更新清單使用。**目前正式版為 V1.1.0，已支援線上更新。** 前往 [V1.1.0 下載頁](https://github.com/Hunter0527/wows-helper-releases/releases/tag/v1.1.0) 取得安裝版或 ZIP 免安裝版。
 
 ## 下載與更新
 
