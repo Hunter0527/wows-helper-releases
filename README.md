@@ -7,8 +7,6 @@
 ## 下載
 
 - [下載 Windows 安裝版](https://github.com/Hunter0527/wows-helper-releases/releases/download/v1.3.0/animal-research-projects-v1.3.0-Windows-x64-Setup.exe)
-- [下載 ZIP 免安裝版](https://github.com/Hunter0527/wows-helper-releases/releases/download/v1.3.0/animal-research-projects-v1.3.0-Windows-x64.zip)
-- [檔案校驗碼（SHA-256）](https://github.com/Hunter0527/wows-helper-releases/releases/download/v1.3.0/SHA256SUMS.txt)
 
 ## 主要功能
 
